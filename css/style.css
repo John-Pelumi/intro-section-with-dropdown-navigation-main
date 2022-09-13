@@ -59,10 +59,10 @@ button {
   background-color: white;
 }
 button:hover {
-  color: black;
+  color: white;
   border: 1px solid black;
   border-radius: 15px;
-  background-color: white;
+  background-color: black;
   transition: all 0.3s;
 }
 .sponsors {
